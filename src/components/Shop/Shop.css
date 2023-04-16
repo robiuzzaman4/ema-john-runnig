@@ -16,6 +16,18 @@
     gap: 1rem;
 }
 
+.btnReview {
+    width: 100%;
+    padding: .7rem;
+    background: #FF9900;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: .25rem;
+    font-size: 1rem;
+    margin-top: .5rem;
+}
 
 @media screen and (max-width: 768px) {
     .shop {

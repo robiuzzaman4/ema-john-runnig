@@ -4,3 +4,14 @@
     position: sticky;
     top: 0;
 }
+.clearBtn {
+    width: 100%;
+    padding: .7rem;
+    background: #FF3030;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    border-radius: .25rem;
+    font-size: 1rem;
+}

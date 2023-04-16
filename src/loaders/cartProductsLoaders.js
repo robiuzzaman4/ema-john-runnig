@@ -24,4 +24,6 @@ const cartProductsLoaders = async () => {
     return savedCart;
 };
 
+
+
 export default cartProductsLoaders;
